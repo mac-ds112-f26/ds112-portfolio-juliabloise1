@@ -22,7 +22,7 @@ number-depth: 2
 
 book:
   title: "COMP/STAT212 Portfolio"
-  author: "Your Name Here"
+  author: "Julia Bloise"
   date: today  # use today to update date published based on last time project was edited
   date-format: full
   # favicon: path/to/favorite-logo.png
@@ -45,7 +45,7 @@ book:
       # footer text
 
   sidebar:
-    title: "Your Name Here"
+    title: "Julia Bloise"
     logo: assets/sidebar-logo.png
     logo-alt: "Random negative space illustration"
     collapse-level: 2
@@ -75,6 +75,9 @@ book:
 
     - part: "In-Class Activities"
       chapters:
+      - ica/04-bivariate-viz-exercises.qmd
+      - ica/05-multivariate-viz.qmd
+      - ica/07-effective-viz.qmd
       - ica/ica-sample1.qmd
       - ica/ica-sample2.qmd
 
